@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import anydbm
 
+# one of my first programs
 def bot():
     memoria = anydbm.open("dicionario.db","c")
     entrada = "Olá"
