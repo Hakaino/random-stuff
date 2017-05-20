@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 
+# renames all the files of a serie in a folder instantaniously
 confirmation = parent = ""
 a = "\'"
 
